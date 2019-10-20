@@ -1,2 +1,2 @@
 # sirius
-create the social network
+develop the social network
